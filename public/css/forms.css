@@ -6,13 +6,17 @@
 .form-control input {
     display: block;
     width: 100%;
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    font-size: medium;
 }
 
 .form-control input {
-    border: 1px solid #a1a1a1;
+    border: 1.5px solid #a1a1a1;
     font: inherit;
-    border-radius: 2px;
+    border-radius: 14px;
+    width: 400px;
+    padding-left: 10px;
 }
 
 .form-control input:focus {
